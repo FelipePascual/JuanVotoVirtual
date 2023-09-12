@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Votovirtual</string>
+    <string name="tituloApp">Registro de votación</string>
+    <string name="nombre">Nombre</string>
+    <string name="cedula">Cedula</string>
+    <string name="fechaNacimiento">Fecha Nacimiento</string>
+    <string name="tituloVotos">Votos</string>
+    <string name="opcionA">Candidato A</string>
+    <string name="opcionB">Candidato B</string>
+    <string name="opcionC">Candidato C</string>
+    <string name="votacion">votacion</string>
+</resources>
